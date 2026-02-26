@@ -16,7 +16,10 @@ Frontend application for the Torchlight Building project.
 
 ## 📦 Installation
 
-Clone the repository:
-
-```bash yarn install
-
+```bash 
+yarn install
+```
+Start the development server:
+```bash 
+yarn dev
+```
